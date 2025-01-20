@@ -5,3 +5,4 @@
 | CVE-2024-41570 | Havoc | 0.7 | SSRF | https://github.com/chebuya/Havoc-C2-SSRF-poc | https://blog.chebuya.com/posts/server-side-request-forgery-on-havoc-c2/ |
 | x | Havoc | 0.3 - 0.6 | RCE | https://github.com/IncludeSecurity/c2-vulnerabilities/tree/main/havoc_auth_rce | x |
 | x | HardHatC2 | x | Arbitrary File Write, Authentication Bypass & RCE | https://blog.sth.sh/hardhatc2-0-days-rce-authn-bypass-96ba683d9dd7 | x |
+| x | iptables | x | Privilege Escalation | https://www.shielder.com/blog/2024/09/a-journey-from-sudo-iptables-to-local-privilege-escalation/ | x |
