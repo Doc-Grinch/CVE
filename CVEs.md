@@ -9,3 +9,4 @@
 | 2019-14287 | sudo | 1.8.27 | Security Bypass/Privilege Escalation | https://www.exploit-db.com/exploits/47502 | x |
 | 2020-5752 | Druva inSync Windows Client | 6.6.3 | Local Privilege Escalation | https://www.exploit-db.com/exploits/48505 | x |
 | x | Online Discussion Forum | 1.0 | RCE | https://www.exploit-db.com/exploits/48512 | x |
+| x | Online Discussion Forum | 1.0 | RCE | https://www.exploit-db.com/exploits/48512 | x |
